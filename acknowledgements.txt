@@ -1,0 +1,11 @@
+Install FFmpeg in MatLab
+Courtesy of Erdem Yilmaz, 16 April 2016, at: https://www.mathworks.com/matlabcentral/answers/155964-use-ffmpeg-in-matlab
+
+Use -c:a copy to remux videos in FFmpeg
+Courtesy of user xAragon_, 28 October 2021, at: https://www.mathworks.com/matlabcentral/answers/155964-use-ffmpeg-in-matlab
+
+Core FFmpeg conversion functions that TRON uses
+Courtesy of Shubham Dhanda, 28 June 2023, at: https://www.mathworks.com/matlabcentral/answers/1737840-conversion-of-h264-into-mp4
+
+MatLab documentation for appending strings (used for "Generate commands" output):
+https://www.mathworks.com/help/matlab/ref/append.html

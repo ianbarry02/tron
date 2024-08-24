@@ -1,0 +1,7 @@
+FFmpeg installation in MatLab
+Courtesy of Erdem Yilmaz, 16 April 2016, at: https://www.mathworks.com/matlabcentral/answers/155964-use-ffmpeg-in-matlab
+
+1 ) Go to terminal, type
+printenv PATH
+2 ) Copy the output of the command
+3 ) Go to Matlab. Type setenv('PATH', [getenv('PATH') '??????']); instead of ?????? paste what you got from terminal
